@@ -32,6 +32,26 @@ layout: default
             <div class="address">
               {{ page.profile.address }}
             </div>
+
+            <div class="contact-note">
+              {{ site.contact_note }}
+              {%- if site.email -%}
+              <a href="mailto:{{ site.email | encode_email }}" title="email">Email <i class="fas fa-envelope"></i></a> is the best way to reach me.
+              {% endif %} 
+            </div>
+
+                      <!-- Social -->
+              {%- if page.social %}
+                <div class="social">
+                  <div class="contact-icons">
+                    {% include social.html %}
+                  </div>
+
+
+
+                </div>
+              {%- endif %}
+          
             {%- endif %}
           </div>
           {%- endif %}
@@ -54,23 +74,12 @@ layout: default
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+            <p> </p>
+            <p> </p>
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
 
-          <!-- Social -->
-          {%- if page.social %}
-            <div class="social">
-              <div class="contact-icons">
-                {% include social.html %}
-              </div>
-
-              <div class="contact-note">
-                {{ site.contact_note }}
-              </div>
-
-            </div>
-          {%- endif %}
         </article>
 
 </div>
