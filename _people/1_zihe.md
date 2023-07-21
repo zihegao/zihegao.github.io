@@ -84,7 +84,24 @@ Previously, I was a postdoctoral researcher at Penn, and prior to that, I served
 * REBLS workshop series at Splash: REBLS'21,'20,'19,’18,’17,’16,’15,’14,REM’13
 * COP’16 workshop at ECOOP -->
 
+## Education
+
+PhD, Electrical and Computer Engineering, University of Illinois Urbana-Champaign, 2018
+
+MS, Physics, University of Illinois Urbana-Champaign, 2012
+
+BS, Physics, Nanjing University, 2011
+
 
 ## Short Bio
 
-I got my PhD from the University of Illinois at Urbana-Champaign, under the supervision of [Prof. Kent Choquette](https://ece.illinois.edu/about/directory/faculty/choquett). My doctoral dissertation focuses on Vertical Cavity Surface Emitting Lasers (VCSELs) and coupled VCSEL arrays. After that I was recruited by Meta (Facebook Reality Labs, AR/VR) to work on ultra-miniaturized structured-light projectors and 3D vision systems. In 2020 I came back to the academia as a postdoc in [Prof. Liang Feng's lab](https://fenglab.seas.upenn.edu/index.html) at Penn and worked on topological photonics and quantum optics. I've been an assistant professor at Auburn ECE since Aug 2023.
+I obtained my PhD from the University of Illinois at Urbana-Champaign under the supervision of [Prof. Kent Choquette](https://ece.illinois.edu/about/directory/faculty/choquett). My doctoral dissertation focuses on Vertical Cavity Surface Emitting Lasers (VCSELs) and coupled VCSEL arrays. After that, I was recruited by Meta (Facebook Reality Labs, AR/VR) to work on ultra-miniaturized structured-light projectors and 3D vision systems. In 2020, I returned to academia as a postdoctoral researcher in [Prof. Liang Feng's lab](https://fenglab.seas.upenn.edu/index.html) at the University of Pennsylvania where I worked on topological photonics and quantum optics. Since August 2023, I've been an assistant professor at Auburn ECE.
+
+
+## Research Interests
+
+My research interests emcompass optics, microelectronics, and physics. I had most of fun when I got to use all three of them. A significant portion of my past research has been devoted to the control of collective behaviors in multi-element and multimode photonic systems to build scalable and programmable integrated photonic chips for both classical and quantum applications. 
+
+<img src="/assets/img/research_triangle2.svg" width="400">
+
+

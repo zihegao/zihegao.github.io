@@ -29,7 +29,7 @@ Photons are the ultimate carriers of information, serving as our primary means o
 
 Leveraging heterogeneously integrated photonic and microelectronic chips, the devices and systems that we investigate offer ultimate compactness, superior system stability, and scalable manufacturability.
 
-![test]({{site.url}}/assets/img/1.jpg )
+![test](/assets/img/1.jpg )
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
