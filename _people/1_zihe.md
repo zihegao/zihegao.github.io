@@ -4,10 +4,11 @@ inline: false
 group: Faculty
 group_rank: 1
 
-title: Prof. Zihe Gao
+title: Zihe Gao
 description: Profile of Dr. Zihe Gao, Head of the Photonics Lab.
 lastname: Gao
 publications: 'author^=*Gao'
+social: true
 
 teaser: >
     I’m an Assistant Professor at Auburn University from August 2023.
@@ -23,14 +24,11 @@ profile:
     scholar_userid: uJuEHGkAAAAJ&hl # your Google Scholar ID
     linkedin_username: zihe-gao-84b24742 # your LinkedIn user name
     address: >
-        Department of Electrical and Computer Engineering<br />
-        Office <br />
         Broun Hall <br />
         341 War Eagle Way, Auburn, AL 36849
 ---
 
-<!-- I’m an Assistant Professor at Auburn University from August 2023.
-Previously, I was a postdoctoral researcher at Penn, and prior to that, I served as a postdoctoral research scientist at Meta. -->
+I'm a (tenure-track) Assistant Professor at the Department of Electrical and Computer Engineering, Auburn University. 
 
 
 <!-- ## Recent Pub (Selected)
@@ -104,4 +102,20 @@ My research interests emcompass optics, microelectronics, and physics. I had mos
 
 <img src="/assets/img/research_triangle2.svg" width="400">
 
+
+
+
+
+#### How to pronounce my name?
+<a id="zihe_audio"></a>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        Zihe
+        {% include audio.html path="assets/audio/Zihe.m4a" controls=true %} 
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        Gao
+        {% include audio.html path="assets/audio/Gao.m4a" controls=true %}
+    </div>
+</div>
 

@@ -9,11 +9,13 @@ profile:
   image: gao-profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><font size="8">Zihe Gao</font><p>
+    <p><font size="8">Zihe Gao</font> <a href="/people/1_zihe/#zihe_audio"><i style='font-size:24px' class='fas'>&#xf028;</i></a><p>
     <p>Assistant Professor<p>
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Auburn, AL xxxxx</p>
+
+sitetitle: true
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
