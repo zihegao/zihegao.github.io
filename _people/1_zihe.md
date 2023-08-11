@@ -98,9 +98,9 @@ I obtained my PhD from the University of Illinois at Urbana-Champaign under the 
 
 ## Research Interests
 
-My research interests emcompass optics, microelectronics, and physics. I had most of fun when I got to use all three of them. A significant portion of my past research has been devoted to the control of collective behaviors in multi-element and multimode photonic systems to build scalable and programmable integrated photonic chips for both classical and quantum applications. 
+My research interests emcompass optics, microelectronics, and physics. I had most of fun when I got to use all three of them. A significant portion of my past research has been devoted to the control of collective behaviors in multi-element and multimode photonic systems to build scalable and programmable integrated photonic chips for both classical and quantum applications (dynamically steerable laser sources, reconfigurable quantum optical sources, etc.).
 
-<img src="/assets/img/research_triangle2.svg" width="400">
+<!-- <img src="/assets/img/research_triangle2.svg" width="400"> -->
 
 
 

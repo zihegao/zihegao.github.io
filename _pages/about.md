@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.eng.auburn.edu/ece/'>Auburn ECE</a>. 415 Broun Hall, Auburn, AL 
+subtitle: at <a href='https://www.eng.auburn.edu/ece/'>Auburn ECE</a>
 
 profile:
   align: right
@@ -11,9 +11,9 @@ profile:
   address: >
     <p><font size="8">Zihe Gao</font> <a href="/people/1_zihe/#zihe_audio"><i style='font-size:24px' class='fas'>&#xf028;</i></a><p>
     <p>Assistant Professor<p>
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Auburn, AL xxxxx</p>
+    <p>422 Broun Hall</p>
+    <p>341 War Eagle Way</p>
+    <p>Auburn, AL 36849</p>
 
 sitetitle: true
 news: true  # includes a list of news items

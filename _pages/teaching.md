@@ -7,4 +7,4 @@ nav: true
 nav_order: 5
 ---
 
-Will update once I know which course I'll be teaching.
+I will be teaching ELEC 4020 CAPSTONE DESIGN II in Fall 2023.
