@@ -16,7 +16,7 @@ If you are interested in at least 2 out of the following 3 catagories of work, y
 - Microfabrication (working in the cleanroom, fabricating semiconductor chips)
 
 
-Please send me an <a href="mailto:{{ site.email | encode_email }}" title="email">email <i class="fas fa-envelope"></i></a> with a brief statement of your interest.
+If you are interested in joining the lab, please send me an <a href="mailto:{{ site.email | encode_email }}" title="email">email <i class="fas fa-envelope"></i></a> with your CV and a brief statement of interest.
 
 For potential graduate students, Spring 2024 and Fall 2024 applications are welcome. 
 The Auburn ECE application information is at: <https://www.eng.auburn.edu/ece/academics/graduate/index.html>
