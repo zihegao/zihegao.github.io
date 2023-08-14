@@ -21,16 +21,19 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+We are at the forefront of pioneering next-generation photonic devices and systems tailored for imaging, communications, and computing.
 
-We develop next-generation *photonic devices and systems* for *imaging*, *communications*, and *computing*.
 
-Photons are the ultimate carriers of information, serving as our primary means of perceiving the world and transmitting information, both organically through our own eyes and technologically via optical fibers, cameras, sensors, and machine vision. Next-generation technologies, such as wearable and implantable devices as well as autonomous systems, impose stringent demands (e.g., size, weight, and power) that traditional optical systems are unable to fulfill. Our work navigates three transformative directions that hold potential for significant technological breakthroughs: 
-- **Novel optical sources (distributed, ultrafast, reconfigurable)**
-- **Meta-optics with information processing capabilities**
-- **Quantum-enhanced optical sensing and imaging**
+Photons are unmatched in their role as carriers of information. They shape our understanding of the world, enabling us to perceive and relay information both naturally through our eyes and technologically via mediums like optical fibers, cameras, sensors, and machine vision. As emerging technologies, including wearable, implantable devices, and autonomous systems, come to the fore, they bring with them specific challenges — for example, in terms of size, weight, and power. Traditional optical systems fall short of these rigorous demands.
 
-Leveraging heterogeneously integrated photonic and microelectronic chips, the devices and systems that we investigate offer ultimate compactness, superior system stability, and scalable manufacturability.
 
+To bridge this gap, our research steers through three revolutionary pathways promising major technological advancements:
+- **Innovative Optical Sources**: Distributed, ultrafast, and reconfigurable.
+- **Meta-Optics**: Endowed with information processing capabilities.
+- **Quantum-Enhanced Techniques**: Going beyond the classical limits of optical sensing and imaging.
+
+
+By harnessing the synergy of heterogeneously integrated photonic and microelectronic chips, we delve into devices and systems that are not only compact and robust but also scalable in terms of manufacturing.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
