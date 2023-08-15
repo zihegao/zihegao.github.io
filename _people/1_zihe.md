@@ -19,7 +19,7 @@ profile:
     position: Leader, Auburn Photonics Lab
     align: right
     image: gao-profile.jpg
-    email: zihe.gao@gmail.com
+    email: zzg0036@auburn.edu
     orcid: zihe-gao-84b24742
     scholar_userid: uJuEHGkAAAAJ&hl # your Google Scholar ID
     linkedin_username: zihe-gao-84b24742 # your LinkedIn user name
