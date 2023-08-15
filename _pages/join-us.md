@@ -14,7 +14,7 @@ At the moment, we are hiring at all levels (**undergraduate**, **master**, **PhD
 If at least two of the following areas resonate with your passion, our research might be the perfect fit for you:
 - **Coding and Prototyping**: Designing both hardware and software to craft innovative sensing systems.
 - **Physics**: Diving deep into optics, electromagnetics, quantum mechanics, and more.
-- **Microfabrication**: Immersing yourself in the cleanroom environment to fabricate semiconductor chips.
+- **Microfabrication**: Immersing yourself in the cleanroom environment to fabricate laser arrays and semiconductor chips.
   
 Keen on becoming a part of our vibrant lab? Drop me an <a href="mailto:{{ site.email | encode_email }}" title="email">email <i class="fas fa-envelope"></i></a> with your CV and a brief expression of your interest.
 
