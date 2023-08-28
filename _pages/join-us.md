@@ -8,7 +8,7 @@ nav: true
 ---
 
 We're seeking passionate students eager to dive into the world of photonic devices and advanced sensing/imaging systems. If you're ready to work on cutting-edge projects, join us!
-At the moment, we are hiring at all levels (**undergraduate**, **master**, **PhD**, and **postdoc** positions, all fully funded). We also welcome summer interns.
+At the moment, we are hiring at all levels (**undergraduate**, **master**, and **PhD** positions, all fully funded). We also welcome summer interns.
 
 
 If at least two of the following areas resonate with your passion, our research might be the perfect fit for you:
