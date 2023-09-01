@@ -20,5 +20,5 @@ Keen on becoming a part of our vibrant lab? Drop me an <a href="mailto:{{ site.e
 
 
 To aspiring graduate students: We're eager to see your applications for Spring 2024 and Fall 2024.
-For application details, please refer to Auburn ECE's graduate admissions page: <https://www.eng.auburn.edu/ece/academics/graduate/index.html.>
+For application details, please refer to Auburn ECE's graduate admissions page: <https://www.eng.auburn.edu/ece/academics/graduate/>
 
