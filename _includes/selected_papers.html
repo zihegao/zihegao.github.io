@@ -1,4 +1,4 @@
 
           <div class="publications">
-            {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=true]* %}
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=true]* --sort_by year --order descending --group_by none %}
           </div>
