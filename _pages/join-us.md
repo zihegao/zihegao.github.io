@@ -22,5 +22,5 @@ Keen on becoming a part of our vibrant lab? Drop me an <a href="mailto:{{ site.e
 To aspiring graduate students: We're eager to see your applications for Spring 2024 and Fall 2024.
 For application details, please refer to Auburn ECE's graduate admissions page: <https://www.eng.auburn.edu/ece/academics/graduate/>
 
-(**Spring 2024 application deadline: September 15; Fall 2024 application deadline: December 15**)
+(**Spring 2024 application deadline can be extended, especially for students already in the United States; Fall 2024 application deadline: December 15**)
 
