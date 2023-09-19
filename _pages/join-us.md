@@ -28,3 +28,13 @@ For application details, please refer to Auburn ECE's graduate admissions page: 
 
 
 Auburn is recognized as one of the "Best Small Towns in the US". It has a mild climate and offers easy access to major cities, beaches, and mountain recreational activities. The Auburn-Opelika-Columbus metropolitan area, located along the rapidly developing I-85 corridor between Atlanta, GA, and Montgomery, AL, has a population of over 500,000. Auburn has been rated as one of the best places to live in the US by [CNNMoney](https://blog.al.com/montgomery/2012/08/auburn_no_89_on_cnnmoneys_100.html), USNews, [Forbes](https://www.forbes.com/places/al/auburn/?sh=4b1011b07a63), and recently, [Livability](https://livability.com/list/top-100-best-places-to-live/2018/10?page=9). 
+
+
+<iframe width="700" height="395" src="https://www.youtube.com/embed/fc5nLS5PZNQ?si=89KP2Q-bQYLZ_VH_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="700" height="395" src="https://www.youtube.com/embed/S-12TbL_19g?si=AIs6Bo9ESmIGqDPG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="700" height="395" src="https://www.youtube.com/embed/akOJ5zAUiEc?si=UozRqNz6DZjwU2Lx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<p><font size="1">Thanks to Prof. He and Prof. Ng in Auburn CS for putting together some of these nice recruiting media resources. </font></p>
