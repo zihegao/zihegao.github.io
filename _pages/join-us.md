@@ -36,5 +36,6 @@ Auburn is recognized as one of the "Best Small Towns in the US". It has a mild c
 
 <iframe width="700" height="395" src="https://www.youtube.com/embed/akOJ5zAUiEc?si=UozRqNz6DZjwU2Lx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="700" height="395" src="//player.bilibili.com/player.html?aid=584048558&bvid=BV1pz4y1Q7GH&cid=217551959&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <p><font size="1">Thanks to Prof. He and Prof. Ng in Auburn CS for putting together some of these nice recruiting media resources. </font></p>
