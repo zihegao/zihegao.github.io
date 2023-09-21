@@ -23,17 +23,14 @@ social: true  # includes social icons at the bottom of the page
 ---
 We are at the forefront of pioneering next-generation photonic devices and systems tailored for imaging, communications, and computing.
 
-
-Photons are unmatched in their role as carriers of information. They shape our understanding of the world, enabling us to perceive and relay information both naturally through our eyes and technologically via mediums like optical fibers, cameras, sensors, and machine vision. As emerging technologies, including wearable, implantable devices, and autonomous systems, come to the fore, they bring with them specific challenges — for example, in terms of size, weight, and power. Traditional optical systems fall short of these rigorous demands.
-
+Photons are the ultimate carriers of information, serving as our primary means of perceiving the world and transmitting information, both organically through our own eyes and technologically via optical fibers, cameras, sensors, and machine vision. As emerging technologies, including wearable, implantable devices, and autonomous systems, come to the fore, they bring with them specific challenges — for example, in terms of size, weight, and power. Traditional optical systems fall short of these rigorous demands.
 
 To bridge this gap, our research steers through three revolutionary pathways promising major technological advancements:
 - **Innovative Optical Sources**: Distributed, ultrafast, and reconfigurable laser arrays.
 - **Meta-Optics**: Endowed with information processing capabilities.
 - **Quantum-Enhanced Techniques**: Going beyond the classical limits of optical sensing and imaging.
 
-
-By harnessing the synergy of heterogeneously integrated photonic and microelectronic chips, we delve into devices and systems that are not only compact and robust but also scalable in terms of manufacturing.
+By harnessing the synergy of heterogeneously integrated photonic and microelectronic chips, we explore devices and systems that are not only compact and robust but also scalable in terms of manufacturing.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
