@@ -65,5 +65,5 @@ nav_rank: 2
 ## Undergraduate Researchers
 
 **Jake Dunham**
-B.S. Auburn University, 2023 - present
+ECE, Auburn University, 2023 - present
 <a href="mailto:jbd0043@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
