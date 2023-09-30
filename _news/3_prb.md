@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our [PRB paper](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.104111) is now online. We explain why pumping either the head or tail of the non-Hermitian skin mode results in the same lasing threshold — a notably counterintuitive finding! One would think pumping the 'head' region (i.e., where the mode is localized at) results in more efficient pumping and lower threshold. Well, in non-Hermitian gauged systems with asymmetric coupling, this conventional wisdom fails.
+Our [PRB paper](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.104111) is now online. In the context of non-Hermitian guaged laser arrays, we explain why pumping either the head or tail of the non-Hermitian skin mode results in the same lasing threshold — a notably counterintuitive finding! One would think pumping the 'head' region (i.e., where the mode is localized at) results in more efficient pumping and lower threshold. Well, in non-Hermitian guaged laser arrays, this conventional wisdom fails.
