@@ -61,6 +61,7 @@ nav_rank: 2
 </p>
     {% endfor %}
 {% endfor %}
+<br/><br/>
 
 ## Undergraduate Researchers
 
