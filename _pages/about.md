@@ -21,13 +21,13 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-We are at the forefront of pioneering next-generation photonic devices and systems tailored for imaging, communications, and computing.
+We are pioneering next-generation photonic devices and systems tailored for imaging, communications, and computing.
 
-Photons are the ultimate carriers of information, serving as our primary means of perceiving the world and transmitting information, both organically through our own eyes and technologically via optical fibers, cameras, sensors, and machine vision. As emerging technologies, including wearable, implantable devices, and autonomous systems, come to the fore, they bring with them specific challenges — for example, in terms of size, weight, and power. Traditional optical systems fall short of these rigorous demands.
+Photons are the ultimate carriers of information, serving as our primary means of perceiving the world and transmitting information, both through our own eyes and via optical fibers, cameras, sensors, and machine vision. Emerging technologies, including wearable, implantable devices, and autonomous systems, pose stringent requirements on the optical modules in terms of size, weight, power, and performance. Traditional optical systems fall short of these rigorous demands.
 
-To bridge this gap, our research steers through three revolutionary pathways promising major technological advancements:
+To address this gap, our research focuses on three areas that potentially will provide major technological advancements:
 - **Innovative Optical Sources**: Distributed, ultrafast, and reconfigurable laser arrays.
-- **Meta-Optics**: Endowed with information processing capabilities.
+- **Meta-Optics**: With information processing capabilities.
 - **Quantum-Enhanced Techniques**: Going beyond the classical limits of optical sensing and imaging.
 
 By harnessing the synergy of heterogeneously integrated photonic and microelectronic chips, we explore devices and systems that are not only compact and robust but also scalable in terms of manufacturing.
