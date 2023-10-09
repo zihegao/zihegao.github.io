@@ -16,10 +16,10 @@ If at least two of the following areas resonate with your passion, our research 
 - **Physics**: Diving deep into optics, electromagnetics, quantum mechanics, and more.
 - **Microfabrication**: Immersing yourself in the cleanroom environment to fabricate laser arrays and semiconductor chips.
   
-Keen on becoming a part of our vibrant lab? Drop me an <a href="mailto:{{ site.email | encode_email }}" title="email">email <i class="fas fa-envelope"></i></a> with your CV (please include your GPA on your CV) and a brief expression of your interest.
+Want to become a part of our lab? Send me an <a href="mailto:{{ site.email | encode_email }}" title="email">email <i class="fas fa-envelope"></i></a> with your CV (please include your GPA on your CV) and a brief expression of your interest.
 
 
-To aspiring graduate students: We're eager to see your applications for Spring 2024 and Fall 2024.
+To future graduate students: We're eager to see your applications for Spring 2024 and Fall 2024.
 For application details, please refer to Auburn ECE's graduate admissions page: <https://www.eng.auburn.edu/ece/academics/graduate/>
 
 (**The application deadline for Spring 2024 was September 15, but this deadline can be extended on a case-by-case basis, especially for students already in the United States; Fall 2024 application deadline: December 15**)
