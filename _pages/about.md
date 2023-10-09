@@ -25,10 +25,10 @@ We are pioneering next-generation photonic devices and systems tailored for imag
 
 Photons are the ultimate carriers of information, serving as our primary means of perceiving the world and transmitting information, both through our own eyes and via optical fibers, cameras, sensors, and machine vision. Emerging technologies, including wearable, implantable devices, and autonomous systems, pose stringent requirements on the optical modules in terms of size, weight, power, and performance. Traditional optical systems fall short of these rigorous demands.
 
-To address this gap, our research focuses on three areas that potentially will provide major technological advancements:
+To address this gap, our research targets three major areas of technological advancement:
 - **Innovative Optical Sources**: Distributed, ultrafast, and reconfigurable laser arrays.
-- **Meta-Optics**: With information processing capabilities.
-- **Quantum-Enhanced Techniques**: Going beyond the classical limits of optical sensing and imaging.
+- **Meta-Optics** with information processing capabilities.
+- **Quantum-Enhanced Techniques** beyond the classical limits of optical sensing and imaging.
 
 By harnessing the synergy of heterogeneously integrated photonic and microelectronic chips, we explore devices and systems that are not only compact and robust but also scalable in terms of manufacturing.
 
