@@ -12,7 +12,7 @@ We're seeking passionate students who are interested in photonic devices and adv
 
 If at least two of the following areas resonate with your passion, our research might be the perfect fit for you:
 - **Coding and Prototyping**: Designing both hardware and software to create innovative sensing systems.
-- **Physics**: Diving deep into optics, electromagnetics, quantum mechanics, and more.
+- **Physics**: Pursuing the fundamental limits and deep understanding of optics, quantum physics, and more.
 - **Microfabrication**: Immersing yourself in the cleanroom environment to fabricate laser arrays and semiconductor chips.
   
 Want to become a part of our lab? Send me an <a href="mailto:{{ site.email | encode_email }}" title="email">email <i class="fas fa-envelope"></i></a> with your CV (please include your GPA on your CV) and a brief expression of your interest.
