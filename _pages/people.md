@@ -68,3 +68,7 @@ nav_rank: 2
 **Jake Dunham**
 ECE, Auburn University, 2023 - present
 <a href="mailto:jbd0043@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
+
+**Charlotte Brown**
+Physics, Auburn University, 2023 - present
+<a href="mailto:scb0118@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
