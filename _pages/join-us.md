@@ -7,7 +7,7 @@ nav_rank: 5
 nav: true
 ---
 
-We're seeking passionate students who are interested in photonic devices and advanced sensing/imaging systems. At the moment, we are hiring at all levels (**undergraduate**, **master**, and **PhD** positions, all fully funded). We also welcome summer interns.
+We're seeking passionate students who are interested in photonic devices and advanced sensing/imaging systems. At the moment, we have one **PhD** opening for 2024 Fall admission. We also welcome undergraduate researchers and summer interns.
 
 
 If at least two of the following areas resonate with your passion, our research might be the perfect fit for you:
@@ -21,7 +21,7 @@ Want to become a part of our lab? Send me an <a href="mailto:{{ site.email | enc
 To future graduate students: We're eager to see your applications for Spring 2024 and Fall 2024.
 For application details, please refer to Auburn ECE's graduate admissions page: <https://www.eng.auburn.edu/ece/academics/graduate/>
 
-(**The application deadline for Spring 2024 was September 15, but this deadline can be extended on a case-by-case basis, especially for students already in the United States; Fall 2024 application deadline: December 15**)
+(**Fall 2024 application deadline: December 15**)
 
 **Auburn University and the city**: Auburn University is a public research university located in Auburn, Alabama, and is one of the state's two flagship public universities. According to the 2024 USNews rankings, Auburn University ranks 93rd overall in the US, with its engineering school ranking 55th. In addition to being an R1 Carnegie research institution, Auburn Engineering research is ranked among the nation’s top 50 in research expenditures. We’re right in the automotive industry, and also 3.5 hrs from Cummings Research Park (the world’s 4th largest research park). Remarkably, the university is planning on hiring 500 new tenure-track faculty within 2019-2024! 
 
