@@ -18,7 +18,7 @@ If at least two of the following areas resonate with your passion, our research 
 Want to become a part of our lab? Send me an <a href="mailto:{{ site.email | encode_email }}" title="email">email <i class="fas fa-envelope"></i></a> with your CV (please include your GPA on your CV) and a brief expression of your interest.
 
 
-To future graduate students: We're eager to see your applications for Spring 2024 and Fall 2024.
+To future graduate students: We're eager to see your applications for Fall 2024.
 For application details, please refer to Auburn ECE's graduate admissions page: <https://www.eng.auburn.edu/ece/academics/graduate/>
 
 (**Fall 2024 application deadline: December 15**)
