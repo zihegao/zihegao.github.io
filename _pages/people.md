@@ -64,19 +64,21 @@ nav_rank: 2
 <br/><br/>
 
 ## PhD Students
-**Jake Dunham**
-PhD student in ECE
+**Jake Dunham** <a href="mailto:jbd0043@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
+
+PhD student in ECE, Jan 2024 - present 
 
 Bachelor of Electrical Engineering, Auburn University, 2023
 
-<a href="mailto:jbd0043@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
 
-**Ohidul Islam**
-PhD student in ECE
+
+**Ohidul Islam** <a href="mailto:ozi0003@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
+
+PhD student in ECE, Jan 2024 - present  
 
 B.S. in Electrical and Electronic Engineering, Shahjalal University of Science & Technology (SUST), Sylhet, Bangladesh, 2021
 
-<a href="mailto:ozi0003@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
+
 
 ## Undergraduate Researchers
 
