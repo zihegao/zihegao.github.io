@@ -63,11 +63,22 @@ nav_rank: 2
 {% endfor %}
 <br/><br/>
 
-## Undergraduate Researchers
-
+## PhD Students
 **Jake Dunham**
-ECE, Auburn University, 2023 - present
+PhD student in ECE
+
+Bachelor of Electrical Engineering, Auburn University, 2023
+
 <a href="mailto:jbd0043@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
+
+**Ohidul Islam**
+PhD student in ECE
+
+B.S. in Electrical and Electronic Engineering, Shahjalal University of Science & Technology (SUST), Sylhet, Bangladesh, 2021
+
+<a href="mailto:ozi0003@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
+
+## Undergraduate Researchers
 
 **Charlotte Brown**
 Physics, Auburn University, 2023 - present
