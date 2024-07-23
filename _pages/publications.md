@@ -11,7 +11,7 @@ An up-to-date list is available on <a href='https://scholar.google.com/citations
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography -f {{ site.scholar.bibliography }} --query !@inproceedings %}
 
 
 

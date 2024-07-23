@@ -6,7 +6,6 @@ description:
 nav: true
 nav_rank: 2
 ---
-
 {% assign groups = site.people | sort: "group_rank" | map: "group" | uniq %}
 {% for group in groups %}
 ## {{ group }}
@@ -85,3 +84,22 @@ B.S. in Electrical and Electronic Engineering, Shahjalal University of Science &
 **Charlotte Brown**
 Physics, Auburn University, 2023 - present
 <a href="mailto:scb0118@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
+
+**Alex Brown**
+Electrical Engineering, Auburn University, 2024 - present <a href="mailto:kab0182@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>  
+(Supported by the Undergraduate Research Early Start Award) 
+
+**Dhimitri Petro**
+Electrical Engineering, Auburn University, 2024 Summer <a href="mailto:dcp0030@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>  
+(Supported by the Summer Undergraduate Research Experience (SURE) Program) 
+
+**Beth Dawe**
+Computer Engineering, Auburn University, 2024 Summer <a href="mailto:emd0063@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>  
+(Supported by the Summer Undergraduate Research Experience (SURE) Program) 
+
+## Group photos
+
+**2024 July**  
+<img src="/assets/img/group_members/202407_group_photo.jpg" width="400">  
+From left to right: Jake Dunham, Alex Brown, Beth Dawe, Dhimitri Petro, Ohidul Islam, Zihe Gao. (Charlotte is doing a summer internship in Oak Ridge and missed all the fun.)
+

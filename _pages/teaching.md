@@ -7,6 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-I am teaching ELEC 4020 Capstone Design II in Fall 2023.
+ELEC 4020 Capstone Design II (2023 Fall)
 
-I will be teaching ELEC 5970/6970 Optoelectronics in Spring 2024 (Class meeting times: Tue Thu 11:00 AM - 12:15 PM).
+ELEC 5970/6970 Optoelectronics (2024 Spring)
+
+ELEC 7970 Quantum Optics (2024 Fall)
+
