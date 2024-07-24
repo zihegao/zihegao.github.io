@@ -91,11 +91,11 @@ Electrical Engineering, Auburn University, 2024 - present <a href="mailto:kab018
 
 **Dhimitri Petro**
 Electrical Engineering, Auburn University, 2024 Summer <a href="mailto:dcp0030@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>  
-(Supported by the Summer Undergraduate Research Experience (SURE) Program) 
+(Supported by the Summer Undergraduate Research Experience ([SURE](https://eng.auburn.edu/news/2024/07/sure-program-provides-undergraduate-students-with-taste-of-graduate-school.html)) Program) 
 
 **Beth Dawe**
 Computer Engineering, Auburn University, 2024 Summer <a href="mailto:emd0063@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>  
-(Supported by the Summer Undergraduate Research Experience (SURE) Program) 
+(Supported by the Summer Undergraduate Research Experience ([SURE](https://eng.auburn.edu/news/2024/07/sure-program-provides-undergraduate-students-with-taste-of-graduate-school.html)) Program) 
 
 ## Group photos
 
