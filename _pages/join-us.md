@@ -10,7 +10,7 @@ nav: true
 We're seeking passionate students who are interested in photonic devices and advanced sensing/imaging systems. At the moment, we have one **PhD** opening for 2025 Spring/Fall admission. We also welcome undergraduate researchers and summer interns.
 
 
-If at least two of the following areas resonate with your passion, our research might be the perfect fit for you:
+If at least two of the following areas resonate with you, our research might be a good fit for you:
 - **Coding and Prototyping**: Designing both hardware and software to create innovative sensing systems.
 - **Physics**: Understanding the fundamental behaviors and pursuing the performance limits of quantum optical systems and topological systems.
 - **Microfabrication**: Working in the cleanroom to fabricate laser arrays and semiconductor chips.
