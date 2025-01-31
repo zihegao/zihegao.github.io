@@ -81,6 +81,9 @@ B.S. in Electrical and Electronic Engineering, Shahjalal University of Science &
 
 ## Undergraduate Researchers
 
+**Benson Jiang**
+ECE, Auburn University, 2025 Spring - present <a href="mailto:bzj0043@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
+
 **Charlotte Brown**
 Physics, Auburn University, 2023 - present
 <a href="mailto:scb0118@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
@@ -90,7 +93,7 @@ Electrical Engineering, Auburn University, 2024 - present <a href="mailto:kab018
 (Supported by the Undergraduate Research Early Start Award) 
 
 **Dhimitri Petro**
-Electrical Engineering, Auburn University, 2024 Summer <a href="mailto:dcp0030@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>  
+Electrical Engineering, Auburn University, 2024 Summer and 2025 Spring - present <a href="mailto:dcp0030@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>  
 (Supported by the Summer Undergraduate Research Experience ([SURE](https://eng.auburn.edu/news/2024/07/sure-program-provides-undergraduate-students-with-taste-of-graduate-school.html)) Program) 
 
 **Beth Dawe**
