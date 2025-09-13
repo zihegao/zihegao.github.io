@@ -81,20 +81,29 @@ B.S. in Electrical and Electronic Engineering, Shahjalal University of Science &
 
 ## Undergraduate Researchers
 
+**Alejandro Matlalcuatzi**
+ECE, Auburn University, 2025 Summer (Supported by the Summer Undergraduate Research Experience ([SURE](https://eng.auburn.edu/news/2024/07/sure-program-provides-undergraduate-students-with-taste-of-graduate-school.html)) Program) 
+
+**Beau Blackburn**
+ECE, Auburn University, 2025 Summer 
+
+**Ethan Wilson**
+Computer Engineering, Cedarville University, 2025 Summer (Supported by the Summer Undergraduate Research Experience ([SURE](https://eng.auburn.edu/news/2024/07/sure-program-provides-undergraduate-students-with-taste-of-graduate-school.html)) Program) 
+
 **Benson Jiang**
-ECE, Auburn University, 2025 Spring - present <a href="mailto:bzj0043@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
+ECE, Auburn University, 2025 Spring <a href="mailto:bzj0043@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
 
 **Charlotte Brown**
 Physics, Auburn University, 2023 - present
 <a href="mailto:scb0118@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
 
 **Alex Brown**
-Electrical Engineering, Auburn University, 2024 - present <a href="mailto:kab0182@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>  
+Electrical Engineering, Auburn University, 2024 Summer and Fall <a href="mailto:kab0182@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>  
 (Supported by the Undergraduate Research Early Start Award) 
 
 **Dhimitri Petro**
 Electrical Engineering, Auburn University, 2024 Summer and 2025 Spring - present <a href="mailto:dcp0030@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>  
-(Supported by the Summer Undergraduate Research Experience ([SURE](https://eng.auburn.edu/news/2024/07/sure-program-provides-undergraduate-students-with-taste-of-graduate-school.html)) Program) 
+(Supported by the Summer Undergraduate Research Experience ([SURE](https://eng.auburn.edu/news/2024/07/sure-program-provides-undergraduate-students-with-taste-of-graduate-school.html)) Program and 2025-2026 Undergraduate Research Fellowship Award) 
 
 **Beth Dawe**
 Computer Engineering, Auburn University, 2024 Summer <a href="mailto:emd0063@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>  
@@ -102,7 +111,12 @@ Computer Engineering, Auburn University, 2024 Summer <a href="mailto:emd0063@aub
 
 ## Group photos
 
+**2025 July**  
+<img src="/assets/img/group_members/202507_group_photo.jpeg" width="400">  
+From left to right: Zihe Gao, Jake Dunham, Ohidul Islam, Dhimitri Petro, Alejandro Matlalcuatzi, Beau Blackburn, Ethan Wilson
+
 **2024 July**  
 <img src="/assets/img/group_members/202407_group_photo.jpg" width="400">  
 From left to right: Jake Dunham, Alex Brown, Beth Dawe, Dhimitri Petro, Ohidul Islam, Zihe Gao. (Charlotte is doing a summer internship in Oak Ridge and missed all the fun.)
+
 
