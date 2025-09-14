@@ -81,6 +81,21 @@ B.S. in Electrical and Electronic Engineering, Shahjalal University of Science &
 
 ## Undergraduate Researchers
 
+### Current Members
+
+**Charlotte Brown**
+Physics, Auburn University, 2023 - present
+<a href="mailto:scb0118@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
+
+**Dhimitri Petro**
+Electrical Engineering, Auburn University, 2024 Summer and 2025 Spring - present <a href="mailto:dcp0030@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>  
+(Supported by the Summer Undergraduate Research Experience ([SURE](https://eng.auburn.edu/news/2024/07/sure-program-provides-undergraduate-students-with-taste-of-graduate-school.html)) Program and 2025-2026 Undergraduate Research Fellowship Award) 
+
+### Past Members
+
+**Benson Jiang**
+ECE, Auburn University, 2025 Spring <a href="mailto:bzj0043@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
+
 **Alejandro Matlalcuatzi**
 ECE, Auburn University, 2025 Summer (Supported by the Summer Undergraduate Research Experience ([SURE](https://eng.auburn.edu/news/2024/07/sure-program-provides-undergraduate-students-with-taste-of-graduate-school.html)) Program) 
 
@@ -90,20 +105,9 @@ ECE, Auburn University, 2025 Summer
 **Ethan Wilson**
 Computer Engineering, Cedarville University, 2025 Summer (Supported by the Summer Undergraduate Research Experience ([SURE](https://eng.auburn.edu/news/2024/07/sure-program-provides-undergraduate-students-with-taste-of-graduate-school.html)) Program) 
 
-**Benson Jiang**
-ECE, Auburn University, 2025 Spring <a href="mailto:bzj0043@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
-
-**Charlotte Brown**
-Physics, Auburn University, 2023 - present
-<a href="mailto:scb0118@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
-
 **Alex Brown**
 Electrical Engineering, Auburn University, 2024 Summer and Fall <a href="mailto:kab0182@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>  
 (Supported by the Undergraduate Research Early Start Award) 
-
-**Dhimitri Petro**
-Electrical Engineering, Auburn University, 2024 Summer and 2025 Spring - present <a href="mailto:dcp0030@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>  
-(Supported by the Summer Undergraduate Research Experience ([SURE](https://eng.auburn.edu/news/2024/07/sure-program-provides-undergraduate-students-with-taste-of-graduate-school.html)) Program and 2025-2026 Undergraduate Research Fellowship Award) 
 
 **Beth Dawe**
 Computer Engineering, Auburn University, 2024 Summer <a href="mailto:emd0063@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>  
