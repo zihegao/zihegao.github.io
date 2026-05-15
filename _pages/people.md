@@ -79,6 +79,17 @@ B.S. in Electrical and Electronic Engineering, Shahjalal University of Science &
 
 
 
+## Master's Students
+
+**Dhimitri Petro**
+Electrical Engineering, Auburn University, 2024 Summer and 2025 Spring - present; starting as thesis master's student in Fall 2026 <a href="mailto:dcp0030@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>  
+(Supported by the Summer Undergraduate Research Experience ([SURE](https://eng.auburn.edu/news/2024/07/sure-program-provides-undergraduate-students-with-taste-of-graduate-school.html)) Program and 2025-2026 Undergraduate Research Fellowship Award)
+
+**Nathan Plourde**
+Auburn University, 2026 Spring - present; starting as thesis master's student in Fall 2026
+
+
+
 ## Undergraduate Researchers
 
 ### Current Members
@@ -87,18 +98,11 @@ B.S. in Electrical and Electronic Engineering, Shahjalal University of Science &
 Physics, Auburn University, 2023 - present
 <a href="mailto:scb0118@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>
 
-**Dhimitri Petro**
-Electrical Engineering, Auburn University, 2024 Summer and 2025 Spring - present; starting as thesis master's student in Fall 2026 <a href="mailto:dcp0030@auburn.edu" class="card-link"><i class="fas fa-envelope"></i></a>  
-(Supported by the Summer Undergraduate Research Experience ([SURE](https://eng.auburn.edu/news/2024/07/sure-program-provides-undergraduate-students-with-taste-of-graduate-school.html)) Program and 2025-2026 Undergraduate Research Fellowship Award)
-
 **Luke Giers**
 Auburn University, 2025 Fall - present
 
 **Dania Davis**
 Auburn University, 2025 Fall - present
-
-**Nathan Plourde**
-Auburn University, 2026 Spring - present; starting as thesis master's student in Fall 2026
 
 **Nathan Dechachutinan**
 Undergraduate Research Fellow, Auburn University, 2026 Spring - present
