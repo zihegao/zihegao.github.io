@@ -1,0 +1,32 @@
+# Enforce consistent LF line endings across OSes.
+# Git will check out text files with LF and normalize commits accordingly.
+
+* text=auto eol=lf
+
+# Common text formats in this repo
+*.md   text eol=lf
+*.html text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.js   text eol=lf
+*.css  text eol=lf
+*.scss text eol=lf
+*.rb   text eol=lf
+*.sh   text eol=lf
+*.svg  text eol=lf
+*.txt  text eol=lf
+
+# Treat binaries as binary (no line-ending conversions)
+*.png  -text
+*.jpg  -text
+*.jpeg -text
+*.gif  -text
+*.webp -text
+*.pdf  -text
+*.ico  -text
+*.zip  -text
+*.woff -text
+*.woff2 -text
+*.ttf  -text
+*.eot  -text
