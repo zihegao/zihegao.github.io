@@ -9,8 +9,9 @@ nav_order: 5
 
 ## Upcoming
 
-- ELEC 5970/6970 Quantum Information and Computation (Fall 2026) [flyer](/assets/pdf/QIC_2026_flyer.pdf)
-- ELEC 5970/6970 Optoelectronics (Fall 2026) [flyer](/assets/pdf/Optoelectronics_2026_flyer.pdf)
+- ELEC 5970/6970 Quantum Information and Computation (Spring 2027) [flyer](/assets/pdf/QIC_2026_flyer.pdf)
+- ELEC 5970/6970 Optoelectronics (Spring 2027) [flyer](/assets/pdf/Optoelectronics_2026_flyer.pdf)
+- ELEC 2120 Signals and Systems (Fall 2026)
 
 ## Past
 
