@@ -14,7 +14,12 @@ module Jekyll
       end
 
       def digest!
-        [file_name, '?', Digest::MD5.hexdigest(file_contents)].join
+        contents = file_contents
+        return file_name if contents.nil? || contents.empty?
+
+        [file_name, '?', Digest::MD5.hexdigest(contents)].join
+      rescue Errno::ENOENT, TypeError
+        file_name
       end
 
       private
@@ -25,7 +30,12 @@ module Jekyll
       end
 
       def file_content
-        local_file_name = file_name.slice((file_name.index('assets/')..-1))
+        asset_index = file_name.index('assets/')
+        return '' unless asset_index
+
+        local_file_name = file_name.slice((asset_index..-1))
+        return '' unless File.exist?(local_file_name)
+
         File.read(local_file_name)
       end
 
