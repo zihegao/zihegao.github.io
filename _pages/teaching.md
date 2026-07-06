@@ -11,8 +11,8 @@ nav_order: 5
 
 To support department teaching needs, I will teach ELEC 2120 in Fall 2026. As a result, my graduate electives are deferred to the following semester (Spring 2027).
 
-- ELEC 5970/6970 Quantum Information and Computation (Spring 2027) [flyer](/assets/pdf/QIC_2026_flyer.pdf)
-- ELEC 5970/6970 Optoelectronics (Spring 2027) [flyer](/assets/pdf/Optoelectronics_2026_flyer.pdf)
+- ELEC 5970/6970 Quantum Information and Computation (Spring 2027)
+- ELEC 5970/6970 Optoelectronics (Spring 2027)
 - ELEC 2120 Signals and Systems (Fall 2026)
 
 ## Past
