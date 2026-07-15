@@ -140,6 +140,10 @@ Computer Engineering, Auburn University, 2024 Summer <a href="mailto:emd0063@aub
 
 ## Group photos
 
+**2026 Summer**  
+<img src="/assets/img/group_members/202607_group_photo.png" width="400">  
+From left to right: Zihe Gao, Prem Patel, Jake Dunham, Harry Rudd, Nathan Plourde, David Gunasekaran, Dhimitri Petro, Charlotte Brown, Ohidul Islam.
+
 **2025 July**  
 <img src="/assets/img/group_members/202507_group_photo.jpeg" width="400">  
 From left to right: Zihe Gao, Jake Dunham, Ohidul Islam, Dhimitri Petro, Alejandro Matlalcuatzi, Beau Blackburn, Ethan Wilson
@@ -147,5 +151,4 @@ From left to right: Zihe Gao, Jake Dunham, Ohidul Islam, Dhimitri Petro, Alejand
 **2024 July**  
 <img src="/assets/img/group_members/202407_group_photo.jpg" width="400">  
 From left to right: Jake Dunham, Alex Brown, Beth Dawe, Dhimitri Petro, Ohidul Islam, Zihe Gao. (Charlotte is doing a summer internship in Oak Ridge and missed all the fun.)
-
 
