@@ -2,7 +2,7 @@
 layout: page
 permalink: /join-us
 title: Join Us
-description: Want to get involved?
+description: 
 nav_rank: 5
 nav: true
 ---
